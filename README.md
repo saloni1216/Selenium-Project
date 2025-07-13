@@ -10,7 +10,7 @@ This project automates YouTube video search and playback using Python and Seleni
 - Automatically opens YouTube in Chrome.
 - Searches for the entered keyword.
 - Clicks and plays the first video.
-- Waits for 30 seconds before closing.
+- Waits for 25 seconds before closing.
 
 ---
 
