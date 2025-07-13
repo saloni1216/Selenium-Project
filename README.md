@@ -1,10 +1,10 @@
-# 🎥 YouTube Video Search Automation using Selenium
+# YouTube Video Search Automation using Selenium
 
 This project automates YouTube video search and playback using Python and Selenium. The user enters any keyword (like "Python tutorial"), and the script opens YouTube, searches the term, clicks the **first video**, and plays it for **25 seconds** before closing the browser.
 
 ---
 
-## ✅ Features
+## Features
 
 - Takes search input from the user.
 - Automatically opens YouTube in Chrome.
@@ -14,7 +14,7 @@ This project automates YouTube video search and playback using Python and Seleni
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **Selenium**
@@ -23,7 +23,7 @@ This project automates YouTube video search and playback using Python and Seleni
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 1. **Install Selenium**
    ```bash
